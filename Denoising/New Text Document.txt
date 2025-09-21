@@ -1,6 +1,0 @@
-6 materials
-hdri, sun and area light
-render elements
-denoising
-rendering slow
-personal story, motivaton, fun and problems
